@@ -28,7 +28,7 @@ Vamos a aprender: Cómo poder manejar las rutas en React con un paquete  bien fa
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://org-bay-zeta.vercel.app/" >
+    <a href="pet-shop-green.vercel.app" >
       🔗 Visitar la Pagina Org
     </a>
 </div>
