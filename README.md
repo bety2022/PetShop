@@ -29,7 +29,7 @@ Vamos a aprender: Cómo poder manejar las rutas en React con un paquete bien fam
 <div align="center">
   <h3>
     <a href="https://pet-shop-green.vercel.app" >
-      🔗 Visitar la Pagina Org
+      🔗 Visitar la Pagina PetShop
     </a>
 </div>
 <br />
