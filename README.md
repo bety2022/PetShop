@@ -1,3 +1,67 @@
+<h1 align="center"> React Router: Navegación en una SPA / PROGRAMA ONE - ALURA </h1>
+
+ <h1 align="center"> / Pagina PetShop / Front End G6 - ONE </h1>
+
+# React Router: Navegación en una SPA
+
+👩‍💻 💻 Desarrollo pagina PetShop:   
+
+Vamos a aprender: Cómo poder manejar las rutas en React con un paquete  bien famoso llamado React Router DOM.
+* Crea la navegación de una aplicación en React utilizando la biblioteca React Router Dom
+* Establece rutas en tu proyecto para tener una SPA
+* Haz tu aplicación dinámica con peticiones a una Rest API del blog de Petshop
+* Crea filtros para buscar posts de manera más eficiente
+
+
+<p align="center" >
+     <img width="1000" heigth="600" src="src/assets/img/PetShop.png">
+     
+</p>
+
+
+</p>
+
+<br />
+  ❤️ ESTADO: Finalizado
+<br />
+
+## 🔎 Deploy
+<div align="center">
+  <h3>
+    <a href="https://org-bay-zeta.vercel.app/" >
+      🔗 Visitar la Pagina Org
+    </a>
+</div>
+<br />
+
+## 🛠️ Herramientas implementadas 
+  - NodeJS
+  - JSON-server
+  - API
+  - DOM
+  - Layouts
+  - Flexbox
+  - CSS
+  - HTML
+  - JavaScript
+  - Git || GitHub || GitHub Pages
+  - Figma
+  - React
+  - React Router
+
+
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flexbox,layouts,css,html,js,git,github,figma" />
+    </a>
+</div>
+<br />
+
+<br />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
