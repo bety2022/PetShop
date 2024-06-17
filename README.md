@@ -1,12 +1,12 @@
-<h1 align="center"> React Router: Navegación en una SPA / PROGRAMA ONE - ALURA </h1>
+<h1 align="center"> PROGRAMA ONE - ALURA </h1>
 
  <h1 align="center"> / Pagina PetShop / Front End G6 - ONE </h1>
 
-# React Router: Navegación en una SPA
+# Curso React Router: Navegación en una SPA
 
 👩‍💻 💻 Desarrollo pagina PetShop:   
 
-Vamos a aprender: Cómo poder manejar las rutas en React con un paquete  bien famoso llamado React Router DOM.
+Vamos a aprender: Cómo poder manejar las rutas en React con un paquete bien famoso llamado React Router DOM.
 * Crea la navegación de una aplicación en React utilizando la biblioteca React Router Dom
 * Establece rutas en tu proyecto para tener una SPA
 * Haz tu aplicación dinámica con peticiones a una Rest API del blog de Petshop
